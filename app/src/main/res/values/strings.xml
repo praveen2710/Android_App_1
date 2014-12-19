@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTutorialWesley</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">Please Enter Name</string>
+    <string name="button_text">Send</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="action_search">Search</string>
+    <string name="action_new">New</string>
+    <string name="title_activity_search">Search</string>
+
+    <string name="bill_Text_View">Bill</string>
+    <string name="bill_Edit_Text">0.0</string>
+    <string name="tip_Text_View">Tip</string>
+    <string name="tip_Edit_Text">0.15</string>
+    <string name="final_Bill_Text_View">Total Bill</string>
+    <string name="final_Bill_Edit_Text">0.0</string>
+
+    <string name="intro_text_view">Introduction</string>
+
+    <string name="intro_friendly_text_view">Friendly</string>
+    <string name="intro_specials_text_view">Specials</string>
+    <string name="intro_opinion_text_view">Opinion</string>
+
+    <string name="available_text_view">Availability</string>
+    <string name="available_bad_radiobutton">Bad</string>
+    <string name="available_ok_radiobutton">OK</string>
+    <string name="available_good_radiobutton">Good</string>
+
+    <string name="time_waiting_text_view">Time Waiting for Service</string>
+    <string name="start_chronometer_button">Start</string>
+    <string name="pause_chronometer_button">Pause</string>
+    <string name="reset_chronometer_button">Reset</string>
+
+    <!-- Spinner Options -->
+
+    <string-array name="problem_solving">
+        <item>Problem Solving</item>
+        <item>Bad</item>
+        <item>OK</item>
+        <item>Good</item>
+    </string-array>
+
+
+
+
+</resources>
